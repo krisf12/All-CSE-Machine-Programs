@@ -1,0 +1,32 @@
+/*
+//Kristian Forestier
+//Date: 11/22/13
+//Purpose: 
+*/
+
+#include<stdio.h>
+#include<string.h>
+
+int main(void)
+{
+
+FILE *f;
+int i=0;
+int size;
+char file[50];
+char fname[20];
+
+printf("Enter a file name: ");
+scanf("%s",fname);
+
+f=fopen(fname, "r");
+	
+	while(i!='\n')
+	{
+	scanf("%d",&size);
+	}
+
+fclose(fname);
+
+return 0;
+}
