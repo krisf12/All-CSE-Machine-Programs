@@ -1,0 +1,15 @@
+.
+..
+all
+brokenDice.c
+ceasar.c
+CStrings
+decrypt.c
+dice.c
+.DS_Store
+kristian
+minmax.c
+Musings
+permute.c
+prime.c
+printArgs.c

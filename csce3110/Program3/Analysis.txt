@@ -1,0 +1,7 @@
+Analysis
+
+•	The strategy that gave the most balance was the alternating one. 
+
+•	The one that takes the least CPU time is the one that only deletes the largest node in the left subtree.
+
+•	IMPORTANT: make sure to change the include statement in main when compiling main with the different a.cpp b.cpp and c.cpp files

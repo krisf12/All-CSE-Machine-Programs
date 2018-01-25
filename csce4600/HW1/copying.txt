@@ -1,0 +1,1 @@
+I noticed that the graph was linear as the file size was doubled. A way to improve the transfer speed would be to use fread and fwrite instead of read and write because it implements a more efficient way of copying.

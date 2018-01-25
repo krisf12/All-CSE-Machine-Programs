@@ -1,0 +1,5 @@
+sum: main.o sum.o
+	cc -o sum main.o sum.o
+main.o sum.o: sum.h
+	cc -c $*.c
+

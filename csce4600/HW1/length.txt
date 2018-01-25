@@ -1,0 +1,16 @@
+4ghz = 4,000,000,000 cycles per second
+
+1 second = 1,000,000,000 nanoseconds
+
+4 clock cycles per nanosecond
+
+light goes .2997 meters per nanosecond which is 11.8 inches per nanosecond 
+and 85% of that is: 11.8 *.85 = 10.03 inches per nanosecond
+
+10in = 1ns
+and
+1cycle = 1/4ns
+
+so
+
+10in / 4ns = 2.5 inches (or 0.0635 meters)
