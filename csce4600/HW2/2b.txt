@@ -1,8 +1,0 @@
-The system above is not Mutually non-interfering:
-
-
-- add in a (3,5) so that process 3 must complete before process 5 begins since p3 is reading from m4 and p5 is writing to m4.
-
-- add in a (4,5) so that process 4 must coplete before process 5 begins since p3 is reading from m4 and p4 is writing to m4.
-
-- add in a (5,6) so that p5 completes before p6 since the ranges are the same.

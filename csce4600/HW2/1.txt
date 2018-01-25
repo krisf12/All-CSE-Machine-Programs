@@ -1,4 +1,0 @@
-Petersons solution for two processes uses boolean flags of 0 or 1 for allowing two processes to access the same resource without conflict. 
-When there are more than two processes we can no longer use the boolean method and instead must use an integer array of N-1 variables each representing a distinct "waiting room" before the critical section.
-Processes advance from one room to the next and finish in room N−1 which is the critical section. 
-This process works so that even if all N processes were to enter waiting room zero at the same time, no more than N−1 will proceed to the next room.

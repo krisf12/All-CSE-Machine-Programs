@@ -1,8 +1,0 @@
-typedef struct {
-  char  *first;
-  char  *last;
-  int   exam1;
-  int   exam2;
-  int   exam3;
-  float mean;
-} students;
